@@ -4,6 +4,7 @@ Summarize from JVM Meetup #20 "Teras Bhinneka" @ BHINNEKA
 Hari & Tanggal : Kamis, 11 Juli 2019
 
 Lokasi : Bhinneka Office - COHive Filateli
+
 Jl. Pos Pasar Baru 2 Jakarta Pusat
 
 Speaker : 
