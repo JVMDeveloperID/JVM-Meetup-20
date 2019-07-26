@@ -9,8 +9,8 @@ Jl. Pos Pasar Baru 2 Jakarta Pusat
 
 Speaker : 
 
-1. Azhari Harahap (Engineering Manager) : "Bhinneka Microservice Architecture" 
-2. Rohmadi & Wira Dharma Kencana Putra (AI Engineer) : "Bhinneka Chatbot"
+1. Azhari Harahap (Engineering Manager) : ["Bhinneka Microservice Architecture"](https://drive.google.com/open?id=1w_tYsYjy_CIOvikDk5J5dWznju5E6N69)
+2. Rohmadi & Wira Dharma Kencana Putra (AI Engineer) : ["Bhinneka Chatbot"](https://drive.google.com/open?id=1BC56OZlzzyEVljUSRa41HcJxfWupm4c1)
  
 
 ![JVM Meetup #20 Poster](img/JVM20_Landscape.jpeg "JVM Meetup #20 Poster")
