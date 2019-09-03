@@ -16,7 +16,9 @@ Speaker :
 ![JVM Meetup #20 Poster](img/JVM20_Landscape.jpeg "JVM Meetup #20 Poster")
 
 ## JVM MEETUP 20 PHOTO SESSION
-![JVM 20 Photo Session](img/jvm20_photosession.jpeg "JVM 20 Photo Session")
+![JVM 20 Photo Session](img/jvm20_photosession1.JPG "JVM 20 Photo Session")
+
+![JVM 20 Photo Session](img/jvm20_photosession2.JPG "JVM 20 Photo Session")
 
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
